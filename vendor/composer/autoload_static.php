@@ -21,7 +21,7 @@ class ComposerStaticInit170b5cd1194f2be91b8920188a52b1bf
     );
 
     public static $classMap = array (
-        'CodeSwitch\\Skeleton\\Loader' => __DIR__ . '/../..' . '/src/Loader.php',
+        'CodeSwitch\\Skeleton\\Loader' => __DIR__ . '/../..',
         'CodeSwitch\\Skeleton\\Skeleton' => __DIR__ . '/../..' . '/src/Skeleton.php',
     );
 

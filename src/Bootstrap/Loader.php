@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeSwitch\Skeleton;
+namespace CodeSwitch\Skeleton\Bootstrap;
 
 class Loader
 {
