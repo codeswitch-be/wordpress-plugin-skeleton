@@ -1,0 +1,17 @@
+{
+  "name": "codeswitch/wordpress-plugin-skeleton",
+  "authors": [
+    {
+      "name": "Joren Van Hocht",
+      "email": "joren@codeswitch.be"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CodeSwitch\\Skeleton\\": "src"
+    },
+    "files": []
+  },
+  "require": {
+  }
+}
